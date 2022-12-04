@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Peterson Kento
 
-- 🔭 Hoje trabalho com back-end, utilizando a linguagem Python
-- 🌱 Estou estudando JavaScript e Node.js
+- 🔭 Tenho experiência em desenvolvimento back-end, utilizando a linguagem Python
+- 🌱 Estou estudando C e Java
 - 📫 Contate-me no email: sky133419@gmail.com
 
 <div align="center">
