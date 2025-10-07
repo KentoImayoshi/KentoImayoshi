@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Peterson Kento
 
 - 🔭 Tenho experiência em desenvolvimento back-end, utilizando a linguagem Python
-- 🌱 Estou estudando Python e Automações Low Code
+- 🌱 Estou estudando Rust e FastAPI
 - 📫 Contate-me no email: sky133419@gmail.com
 
 <div align="center">
