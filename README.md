@@ -1,8 +1,8 @@
-### Olá! Eu sou o Peterson Kento
+### Olá! Meu nome é Peterson Kento
 
-- 🔭 Tenho experiência em desenvolvimento back-end, utilizando a linguagem Python
-- 🌱 Estou estudando Rust e FastAPI
-- 📫 Contate-me no email: sky133419@gmail.com
+- 🔭 Tenho experiência em desenvolvimento back-end, integração de sistemas e web apps, utilizando Flask, Python, SQL, Django, etc.
+- 🌱 Atualmente estou estudando Django e FastAPI
+- 📫 Contate-me no email: petersonkentoimayoshipereira@gmail.com
 
 <div align="center">
   <a href="https://github.com/KentoImayoshi">
