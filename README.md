@@ -18,8 +18,16 @@ Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Pa
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/KentoImayoshi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    <a href="https://instagram.com/kentoimayoshi" target="_blank">
+        <img 
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:petersonkentoimayoshipereira@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/peterson-kento-imayoshi-pereira-8ab887203"
+        target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </p>
+
 
 ---
 
@@ -87,20 +95,9 @@ Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Pa
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KentoImayoshi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20Peterson%20Kento"
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KentoImayoshi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=400" 
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/KentoImayoshi">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KentoImayoshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KentoImayoshi&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
