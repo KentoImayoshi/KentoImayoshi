@@ -100,7 +100,7 @@ Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Pa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kentoimayoshi&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=KentoImayoshi&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact&include_all_commits=true" 
 />
 
 <img 
@@ -108,6 +108,6 @@ Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Pa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentoimayoshi&theme=tokyonight&layout=compact&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=KentoImayoshi&theme=tokyonight&layout=compact&locale=pt-br" 
 />
 
