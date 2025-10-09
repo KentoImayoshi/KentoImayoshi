@@ -100,7 +100,7 @@ Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Pa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kentoimayoshi&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20Peterson%20Kento" 
+    src="https://github-readme-stats.vercel.app/api?username=kentoimayoshi&show_icons=true&theme=tokyonight&custom_title=Estatísticas%20do%20GitHub%20de%20Peterson%20Kento" 
 />
 
 <img 
