@@ -1,4 +1,4 @@
-## Hi, I'm Peterson 👋
+## Hi, I'm Peterson Kento👋
 
 Backend Python Developer focused on building REST APIs and system integrations.
 
