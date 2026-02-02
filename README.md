@@ -14,20 +14,6 @@ Backend Python Developer focused on building REST APIs and system integrations.
 ### Links
 - LinkedIn: https://www.linkedin.com/in/peterson-kento-imayoshi-pereira/
 
-<p align="left">
-    <a href="https://github.com/KentoImayoshi?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/KentoImayoshi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/KentoImayoshi?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/KentoImayoshi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     <a href = "mailto:petersonkentoimayoshipereira@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="www.linkedin.com/in/peterson-kento-imayoshi-pereira"
@@ -99,22 +85,3 @@ Backend Python Developer focused on building REST APIs and system integrations.
 
 <br/>
 <br/>
-
-### 📊 Statistics
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KentoImayoshi&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact&include_all_commits=true" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KentoImayoshi&theme=tokyonight&layout=compact&locale=pt-br" 
-/>
-
