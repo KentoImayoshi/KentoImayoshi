@@ -1,8 +1,18 @@
-# 👨🏻‍💻 Peterson Kento
+## Hi, I'm Peterson 👋
 
-**`Desenvolvedor Back-End`**
+Backend Python Developer focused on building REST APIs and system integrations.
 
-Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Paulo. Concluí o ensino médio na FITO, com curso técnico em Desenvolvimento de Sistemas, e sou formado em Análise e Desenvolvimento de Sistemas (Tecnólogo) pela UNIP.
+- FastAPI / Django / Flask
+- SQL / PostgreSQL
+- Webhooks, automation, background jobs
+- Open to relocation (Germany / Netherlands)
+
+### Featured
+- Integration Hub (coming soon): webhook ingestion + background processing + external API enrichment
+- Django REST API project (see pinned repos below)
+
+### Links
+- LinkedIn: https://www.linkedin.com/in/peterson-kento-imayoshi-pereira/
 
 <p align="left">
     <a href="https://github.com/KentoImayoshi?tab=repositories&sort=stargazers">
@@ -18,9 +28,6 @@ Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Pa
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/KentoImayoshi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    <a href="https://instagram.com/kentoimayoshi" target="_blank">
-        <img 
-        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:petersonkentoimayoshipereira@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="www.linkedin.com/in/peterson-kento-imayoshi-pereira"
@@ -31,7 +38,7 @@ Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Pa
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -93,7 +100,7 @@ Me chamo Peterson Kento Imayoshi Pereira, tenho 22 anos e sou natural de São Pa
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <img 
     align="left" 
