@@ -8,8 +8,7 @@ Backend Python Developer focused on building REST APIs and system integrations.
 - Open to relocation (Germany / Netherlands)
 
 ### Featured
-- Integration Hub (coming soon): webhook ingestion + background processing + external API enrichment
-- Django REST API project (see pinned repos below)
+- Django REST API project (coming soon)
 
 ### Links
 - LinkedIn: https://www.linkedin.com/in/peterson-kento-imayoshi-pereira/
