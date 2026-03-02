@@ -5,7 +5,7 @@ Backend Python Developer focused on building REST APIs and system integrations.
 - FastAPI / Django / Flask
 - SQL / PostgreSQL
 - Webhooks, automation, background jobs
-- Open to relocation (Germany / Netherlands)
+- Open to relocation (America/ Europe / Asia)
 
 ### Featured
 - Django REST API project (coming soon)
